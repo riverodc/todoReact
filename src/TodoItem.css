@@ -1,0 +1,13 @@
+.icona {
+   display: inline-block;
+   font-size: 2rem;
+   padding-bottom: 10px;
+  }
+
+.icona--active {
+  color: rgb(6, 166, 6);
+}
+
+.cardtext--active {
+   text-decoration: line-through;
+}
